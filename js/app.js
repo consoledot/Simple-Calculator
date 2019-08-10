@@ -1,5 +1,5 @@
 const button = document.getElementsByTagName('button');
-const keys = [...button]
+const keys = [...button];
 keys.length = 16;
 const equalBtn = button.equals;
 const clearBtn = button.clear;
